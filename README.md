@@ -1,1 +1,0 @@
-# AndriyGrynivskyy.github.io
