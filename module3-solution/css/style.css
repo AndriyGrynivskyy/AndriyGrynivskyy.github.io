@@ -79,12 +79,6 @@ h2{
 }
 .c1{
 	font-family: cursive;
-	position: relative;
-	border: 2px solid black;
-	height:30px;
-	left:64.7%;
-	width: 35.5%;
-	top :-2px;
 	text-align: center;
 	font-size: 20px;
 }
